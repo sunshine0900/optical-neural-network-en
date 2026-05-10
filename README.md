@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 10 13:21:46 2026
-
-@author: Dashka
-"""
 
 # 🔬 Optical Neural Network — Prediction of Reflection and Transmission Coefficients
 
